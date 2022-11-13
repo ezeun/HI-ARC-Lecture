@@ -1,5 +1,7 @@
 # 22-1 초급
 
+playlist link: [here](https://youtube.com/playlist?list=PLTwlyMwC2D6GNFMUvOIq-W7e_QsYz0M6p)
+
 ## 목차
 
 ### 00. Introduction 

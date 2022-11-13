@@ -1,5 +1,7 @@
 # 22-2 초급
 
+playlist link: [here](https://youtube.com/playlist?list=PLTwlyMwC2D6HTCrOCkR-qp866pdHRSDvh)
+
 ## 목차
 
 ### 01. 그리디
