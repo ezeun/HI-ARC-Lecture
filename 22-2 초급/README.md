@@ -84,3 +84,23 @@ playlist link: [here](https://youtube.com/playlist?list=PLTwlyMwC2D6HTCrOCkR-qp8
 - 플로이드-워셜
 
     Example2: [BOJ 11404](https://www.acmicpc.net/problem/11404) 플로이드
+
+### 07. 분리 집합
+
+- 분리 집합
+    
+    Example1: [BOJ 1717](https://www.acmicpc.net/problem/1717) 집합의 표현
+
+- Union-Find
+
+    Example2: [BOJ 18116](https://www.acmicpc.net/problem/18116) 로봇 조립
+
+### 08. 최소 스패닝 트리
+
+- 최소 스패닝 트리
+    
+    Example1: [BOJ 1922](https://www.acmicpc.net/problem/1922) 네트워크 연결
+
+- 크루스칼 알고리즘
+
+    Example2: [BOJ 21924](https://www.acmicpc.net/problem/21924) 도시건설
